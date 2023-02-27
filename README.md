@@ -50,6 +50,14 @@ Antivirus and Antimalware up to date
  All system updates when needed
 
 ## How will you administer and support Windows systems?
+1) Install and configure Windows.
+2) Manage user accounts and permissions.
+3) Monitor system performance.
+4) Implement security measures.
+5) Perform regular backups.
+6) Troubleshoot issues.
+7) Install and configure software.
+8) Maintain documentation.
 
 ## How will your company enhance the network’s usability and security?
 -  Establishing correct and up to date;
