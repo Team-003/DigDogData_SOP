@@ -7,11 +7,16 @@
 
 ### Compose thorough SOPs for each of the following:
 
-How will you backup and restore user data, critical infrastructure configurations and hosted data?
--following the 3-2-1 backup rule, you can ensure that your data is protected against data loss or corruption due to system failures, natural disasters, cyber attacks, or other unexpected events. This method is flexible and can be adapted to different backup solutions, including disk backups, tape backups, cloud backups, or a combination of these methods.
-
+## How will you backup and restore user data, critical infrastructure configurations and hosted data?
+1) following the 3-2-1 backup rule, you can ensure that your data is protected against data loss or corruption due to system failures, natural disasters, cyber attacks, or other unexpected events. This method is flexible and can be adapted to different backup solutions, including disk backups, tape backups, cloud backups, or a combination of these methods.
+2)  Hybrid backup solutions: Hybrid backup solutions combine local and cloud backups to provide both onsite and offsite protection for your data. This approach can offer the benefits of both local and cloud backups while minimizing their drawbacks.
 
 How will you securely dispose of sensitive data from storage media?
+- DBAN
+    Free/ Open-source
+    Secure
+    Fully wipes data
+
 
 How will you perform the support engagements/interactions?
 
