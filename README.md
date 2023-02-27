@@ -1,6 +1,6 @@
 # Hello and welcome to our SOP repo.  
 
-## In this repo you will find the preocedures DigDogData has in place to handle a few of the numerous issues that arise in a common IT Solutions workplace, and some of our very own in house SOP solutions. Enjoy and feel free to comment and/or make suggestions. 
+### In this repo you will find the preocedures DigDogData has in place to handle a few of the numerous issues that arise in a common IT Solutions workplace, and some of our very own in house SOP solutions. Enjoy and feel free to comment and/or make suggestions. 
 
 
 ## Standard Operating Procedures (SOP)
