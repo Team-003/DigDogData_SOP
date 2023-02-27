@@ -8,7 +8,7 @@
 ### Compose thorough SOPs for each of the following:
 
 How will you backup and restore user data, critical infrastructure configurations and hosted data?
-_following the 3-2-1 backup rule, you can ensure that your data is protected against data loss or corruption due to system failures, natural disasters, cyber attacks, or other unexpected events. This method is flexible and can be adapted to different backup solutions, including disk backups, tape backups, cloud backups, or a combination of these methods.
+-following the 3-2-1 backup rule, you can ensure that your data is protected against data loss or corruption due to system failures, natural disasters, cyber attacks, or other unexpected events. This method is flexible and can be adapted to different backup solutions, including disk backups, tape backups, cloud backups, or a combination of these methods.
 
 
 How will you securely dispose of sensitive data from storage media?
