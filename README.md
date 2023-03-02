@@ -79,8 +79,7 @@ Antivirus and Antimalware up to date.
 Contributing aurthors of these stated SOP's Include:
 1) Jusitn Dotson
 2) Nick Alderete
-3) Micah Miranda
-4) Justin Harrington
+3) Justin Harrington
 
 
 
